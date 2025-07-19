@@ -1,2 +1,2 @@
 print('helo')
-print("spiderman")
+print("spiderman is a hero")
